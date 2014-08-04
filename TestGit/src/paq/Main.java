@@ -3,6 +3,6 @@ package paq;
 
 public class Main {
   public static void main(String[] args) {
-    System.out.println("Git is fu  n");
+    System.out.println("Git is fun");
   }
 } 
